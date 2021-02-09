@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Gravitas+One&family=Open+Sans&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #181b14;
+  color: #f6dcbc;
+  border-color: #69645e;
+  border-width: 15vw;
+  border-style: solid;
+}
+a {
+  color: white;
+}
+h3 {
+  color: white;
+}
+#title {
+  color: white;
+  font-size: 5vw;
+  text-align: center;
+  font-family: "Gravitas One", cursive;
+}
+#tribute-info {
+  font-size: 2vw;
+  text-align: center;
+  margin-top: -25px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border-color: white;
+  border-width: 0.75vw;
+  border-style: solid;
+  border-radius: 0.2vw;
+}
+#img-caption {
+  font-size: 1vw;
+  text-align: center;
+}
+#timeline {
+  margin-top: 50px;
+  max-width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+blockquote {
+  font-size: 2vw;
+  text-align: center;
+  margin-top: 50px;
+}
+footer {
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: 25px;
+}
